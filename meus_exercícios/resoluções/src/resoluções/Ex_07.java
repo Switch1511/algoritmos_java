@@ -12,7 +12,6 @@ public class Ex_07 {
 		        
 		        int area = lado * lado;
 		        
-
 		        System.out.println("A área do quadrado é: " + area);
 		        System.out.println("O dobro da área é: " + area * 2);
 		    }
